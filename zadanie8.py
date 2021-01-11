@@ -1,0 +1,5 @@
+txt=open("plik.txt","w+")
+txt.write("Dowolne dane")
+txt.seek(0)
+print(txt.read())
+txt.close()
