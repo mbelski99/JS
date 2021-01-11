@@ -3,7 +3,7 @@ x=0
 while x<5:
     word1=input('Wpisz słowo:')
     if word1!=word:
-        print ("Źle! Spróbuj jeszcze raz!")
+        print ("Źle! Spróbuj jeszcze raz!!!")
     else:
         print ("Gratulacje :D")
         break
